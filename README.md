@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/105538414/199022955-7a7a7e87-b31b-4b04-8354-0d235110fe82.gif)]
+![MasterHead](https://user-images.githubusercontent.com/105538414/199022955-7a7a7e87-b31b-4b04-8354-0d235110fe82.gif)
 
 <h1 align="center">Hi 👋, I'm Abdul Baasith</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
