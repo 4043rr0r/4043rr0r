@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abdul Baasith</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4043rr0r&label=Profile%20views&color=0e75b6&style=flat" alt="4043rr0r" /> </p>
 
 - 🌱 I’m currently learning **API's!**
