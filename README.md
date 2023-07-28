@@ -1,8 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/105538414/199022955-7a7a7e87-b31b-4b04-8354-0d235110fe82.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/105538414/199022955-7a7a7e87-b31b-4b04-8354-0d235110fe82.gif)]
 
 <h1 align="center">Hi 👋, I'm Abdul Baasith</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog")
+(img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFoN3NqcjE2eGloeWR6dHgwd2VzYjJxcXM4NG1nMmdidTlzN2V3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4043rr0r&label=Profile%20views&color=0e75b6&style=flat" alt="4043rr0r" /> </p>
 
 - 🌱 I’m currently learning **API's!**
