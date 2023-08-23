@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://baasthemarvellous.wordpress.com/](https://baasthemarvellous.wordpress.com/)
 
-- 💬 Ask me about **React , content writing**
+- 💬 Ask me about **Frontend development , content writing**
 
 - 📫 How to reach me **baasthemarvellous@gmail.com**
 
